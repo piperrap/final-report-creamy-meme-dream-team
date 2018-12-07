@@ -18,6 +18,8 @@ Due to ambiguity with the datasets that Federal Aviation Administration has sent
 - How do you want the tables ordered?
 - What are specifically are incidents?
 - How are you inputting incidents into the system?
+#### ER Diagram
+![ER Diagram](ER_Diagram.png)
 
 ### Planned Activities
 
